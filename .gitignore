@@ -1,0 +1,13 @@
+/tts/
+/main.tf
+.terraform/
+/.terraform.lock.hcl
+*.tfstate*
+*.tfvars
+.venv/
+__pycache__/
+*.egg-info/
+build/
+.env
+/PROGRESS.md
+/demo/
